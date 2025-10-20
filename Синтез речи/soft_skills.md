@@ -69,7 +69,7 @@
 - Хотел бы чаще видится с командой и в не рабочее время. Есть ли традиции, например, сходить всем вместе в боулинг после закрытия сложной задачи?
 
 ## О своих проектах
-- Нотбук чтобы разобраться в инструментах Speach Processing: (https://colab.research.google.com/drive/1yNGg4e-ebLFJpEbeimlgzFy9OUp93fPz#scrollTo=sSErPazoqqpl)
+- Нотбук чтобы разобраться в инструментах Audio Processing: (https://colab.research.google.com/drive/1yNGg4e-ebLFJpEbeimlgzFy9OUp93fPz#scrollTo=sSErPazoqqpl)
 - Boxing punch counter (https://github.com/LeonidMitrofanov/PunchCounter) - ??
 - Credit default (https://github.com/LeonidMitrofanov/Innopolis_ML/blob/main/attestations/attestation1/Mitrofanov_Leonid_Attestation_1.ipynb) - ??
 
