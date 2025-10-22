@@ -17,7 +17,7 @@ FOLDER_ID = "b1ge6b93hbtf0j5b7ptt"
 MODEL_NAME = "yandexgpt-lite"
 TEMPERATURE = 0.3
 MAX_TOKENS = 1024
-MAX_WORKERS = 4  # увеличь осторожно если API позволяет
+MAX_WORKERS = 8  # увеличь осторожно если API позволяет
 RETRY_ATTEMPTS = 2  # простые повторы для временных ошибок
 
 
