@@ -10,8 +10,8 @@ from time import sleep
 from random import random
 
 # === НАСТРОЙКИ ===
-INPUT_PATH = "/Users/leonid/Programs/yandex/Дообучение LLM (Alignment)/practic/fineTuning/output/qa_prompts_detailed.json"
-OUTPUT_PATH = "/Users/leonid/Programs/yandex/Дообучение LLM (Alignment)/practic/fineTuning/output/qa_results_detailed.json"
+INPUT_PATH = "output/qa_prompts_detailed.json"
+OUTPUT_PATH = "practic/fineTuning/output/qa_results_detailed.json"
 
 FOLDER_ID = "b1ge6b93hbtf0j5b7ptt"
 MODEL_NAME = "yandexgpt-lite"
