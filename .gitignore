@@ -3,5 +3,10 @@
 */*/*/.ipynb_checkpoints
 */*/*/*/.ipynb_checkpoints
 
+ ../../../.DS_Store
+../../.DS_Store
+../.DS_Store
+.DS_Store
+
 Дообучение LLM (Alignment)/practic/fineTuning/.env
 Дообучение LLM (Alignment)/practic/fineTuning/.venv
